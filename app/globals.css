@@ -1,0 +1,424 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap&subset=vietnamese');
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.row.dpnam {
+  display: flex;
+}
+
+.rounded.b-sdvvsd {
+  background: #d1e7dd;
+}
+
+.backdvsvsd {
+  background: #fff !important;
+}
+
+.bthgggg {
+  position: absolute;
+  right: 0;
+  top: 240px;
+}
+
+.zoahoacthemhehehe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 99999;
+  width: 100%;
+  height: 100%;
+  background: #000000bf;
+  text-align: center;
+  text-emphasis: triangle;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+}
+
+span.hhhgsdvdsv {
+  color: red;
+  position: absolute;
+  right: 10px;
+}
+
+.nhandoihehe {
+  font-size: 9px;
+  padding: 0;
+  position: absolute;
+  top: 250px;
+  left: 0;
+
+}
+
+.sdvdsvsdvsdlaoding {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  z-index: 999999;
+  background: #fff;
+  top: 0;
+
+}
+
+.pnampt {
+  width: 20% !important;
+  padding: 2px !important;
+}
+
+
+.row.vtnvipsl.dpnam {
+  border-bottom: 1px solid #474747;
+  border-left: 1px solid #474747;
+  border-radius: 4px;
+}
+
+.xoavipsal {
+  width: 0 !important;
+  position: absolute;
+  right: 0px;
+  display: flex;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.vtnvipsl {
+  position: relative;
+}
+
+.activekety {
+  border: 2px solid;
+}
+
+.timkiemheh {
+  width: 500px !important;
+  margin: 20px;
+}
+
+.col-12.mtcontainer {
+  background: #fff;
+  padding: 10px;
+  border-radius: 11px;
+}
+
+.sdjnsdksdjvnsdk {
+  height: 600px;
+  overflow: auto;
+}
+
+.vsdv.sdvdsvds {
+  display: flex;
+}
+
+.vvdvssdvsdvsdv {
+  position: sticky;
+  top: 0;
+  height: 90vh;
+  overflow: auto;
+}
+
+.ctnbthgjf {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  left: 0;
+}
+
+img.anhpkvs {
+  height: 100px;
+  width: 100px;
+  object-fit: contain;
+}
+
+.vsvsdve {
+  background: #ffffff;
+  border-radius: 5px;
+}
+
+.row.fvvsdvds {
+  justify-content: center;
+  align-items: center;
+}
+
+.bthtyth {
+  position: sticky;
+  top: -29px;
+  background: #dbdbdb;
+  z-index: 9999;
+}
+
+p.title.pk {
+  font-size: 2rem;
+  font-family: monospace;
+  text-align: center;
+}
+
+.iconbtdlelepk {
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.iconbtdlele {
+  position: absolute;
+  right: 0px;
+  top: 0px;
+}
+
+.divbageff {
+  margin-right: 40px;
+}
+
+.dbtongluachon {
+  display: flex;
+}
+
+a.linkfv {
+  text-decoration: none;
+  margin: 0 20px;
+}
+
+.activenavc {
+  background: #000000b0 !important;
+  text-decoration: none !important;
+}
+
+.noactivenavc:hover {
+  background: #1995d2 !important;
+}
+
+.divtongvl {
+  background: #e3e3e3;
+  border-radius: 6px;
+  padding: 4px;
+}
+
+.divtongvl.vsdv {
+  position: relative;
+  padding-top: 22px;
+}
+
+.anhpkvl {
+  width: 90%;
+  height: 100px;
+  object-fit: contain;
+  display: flex;
+  justify-content: center;
+  /* align-items: center; */
+}
+
+.borderactive {
+  border: 2px solid #1976d2;
+}
+
+.divsuabtn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.ctnbtnrrrr {
+  background: #fff;
+  border-radius: 11px;
+  padding: 5px;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+}
+
+span.hhhg.re {
+  color: #ff0000;
+}
+
+.ctnbtnrrrrsa {
+  background: #fff;
+  border-radius: 11px;
+  padding: 5px;
+  overflow: hidden;
+  position: sticky;
+  top: 25px;
+  max-height: 80vh;
+  overflow: auto;
+}
+
+.tenpknote.MuiBox-root.css-1qm1lh {
+  margin: 0;
+}
+
+.anhpk {
+  width: 100%;
+  height: 180px;
+}
+
+body.bodyds {
+  background: #dfdfdf;
+}
+
+.ctnbtnsp {
+  display: flex;
+  margin-top: 10px;
+}
+
+.bthgg {
+  margin: auto;
+}
+
+span.thththth {
+  font-size: 0.9rem;
+  font-weight: 700;
+}
+
+p.hhh {
+  margin: 0;
+  font-size: 0.9rem;
+}
+
+.bdfbfd {
+  position: relative;
+}
+
+.glrsjngsl {
+  border: 1px solid #d7d7d7;
+  border-radius: 10px;
+  padding: 4px;
+}
+
+.btvrrr {
+  position: absolute !important;
+  right: 0;
+}
+
+.btvgg {
+  position: relative;
+}
+
+img.amttt {
+  max-width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.anhtailen {
+  width: 100%;
+  height: 200px;
+  overflow: hidden;
+  margin: 5px;
+}
+
+.divtongsp {
+  background: #fff;
+  padding: 10px;
+  border-radius: 9px;
+  /* height: 397px; */
+  position: relative;
+}
+
+.motproduct11 {
+  padding: 5px 5px;
+}
+
+.divanh {
+  width: 100%;
+  HEIGHT: 200px;
+}
+
+.pkhh {
+  margin: 15px 0px;
+  border-radius: 6px;
+  height: 330px;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.tenpk {
+  font-weight: 500;
+  border-bottom: 1px solid #e7e7e7;
+}
+
+span.hhhg {
+  font-weight: 100;
+}
+
+img.anhpk {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  object-position: center;
+}
+
+img.anhpksp {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  object-position: center;
+}
+
+.ggg {
+  justify-content: center;
+  align-items: center;
+  background: #ffffff;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 10px;
+  border: 1px solid #8d8d8d;
+}
+
+.svsvdsvss {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #ffffff;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.vdsdvs {
+  background: #dfdfdf;
+  height: 100% !important;
+}
+
+.tytytyty {
+  width: 80%;
+  /* position: relative; */
+}
+
+.yyb {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  left: 0;
+  background: #dbdbdb;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.activeCL {
+  border: 5px solid #ff0000;
+  box-sizing: border-box;
+}
+
+.themspsss {
+  position: relative;
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+  min-height: 100%;
+  z-index: 999;
+  background: #fff;
+  left: 0;
+  top: 0;
+}
+
+.iconbtdleleadd {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
